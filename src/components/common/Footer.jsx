@@ -38,7 +38,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold">Support</h3>
             <p className="text-sm mt-2">
               <a href="mailto:support@imagetools.com" className="hover:text-white transition-colors">
-                support@imagetools.com
+                support@coderhelp.online
               </a>
             </p>
           </div>
